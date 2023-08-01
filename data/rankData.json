@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Jura-Student:in",
+    "color": {
+      "red": 69,
+      "green": 170,
+      "blue": 242
+    }
+  },
+  {
+    "title": "Referendar:in",
+    "color": {
+      "red": 254,
+      "green": 211,
+      "blue": 48
+    }
+  },
+  {
+    "title": "Anwaltsgehilf:in",
+    "color": {
+      "red": 250,
+      "green": 130,
+      "blue": 49
+    }
+  },
+  {
+    "title": "Anwält:in",
+    "color": {
+      "red": 32,
+      "green": 191,
+      "blue": 107
+    }
+  },
+  {
+    "title": "Highperformer Anwält:in",
+    "color": {
+      "red": 235,
+      "green": 59,
+      "blue": 90
+    }
+  }
+]

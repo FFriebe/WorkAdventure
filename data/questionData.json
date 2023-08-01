@@ -1,0 +1,90 @@
+[
+  {
+    "question": "Wo ist die Menschenwürde-Garantie geregelt?",
+    "answerA": "Artikel 1 des Grundgesetzes (GG)",
+    "answerB": "Artikel 7 des Grundgesetzes (GG)",
+    "answerC": "Artikel 4 des Grundgesetzes (GG)",
+    "answerD": "Artikel 6 des Grundgesetzes (GG)",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Wer 'gehört' zum öffentlich-rechtlichen Rundfunk?",
+    "answerA": "RTL, ProSieben und Sat.1",
+    "answerB": "BBC, CNN und Al Jazeera",
+    "answerC": "Netflix, Amazon Prime und Disney+",
+    "answerD": "ARD, ZDF und Deutschlandradio",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Wofür steht die Abkürzung 'ZDF'?",
+    "answerA": "Zentraler Datenfunk",
+    "answerB": "Zentrale Dachorganisation Fernsehen",
+    "answerC": "Zweites Deutsches Fernsehen",
+    "answerD": "Zeitungs- und Druckerei-Förderung",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Was ist eine geschäftliche Handlung?",
+    "answerA": "§ 2 Abs. 2 Nr. 1 UWG",
+    "answerB": "§ 3 Abs. 1 Nr. 2 UWG",
+    "answerC": "§ 5 Abs. 3 UWG",
+    "answerD": "§ 6 Abs. 2 UWG",
+    "correctAnswer": "A"
+  },
+  {
+    "question": "Was versteht man unter 'Rundfunk'?",
+    "answerA": "Die Übertragung von Briefen und Paketen",
+    "answerB": "Die Verbreitung von Gerüchten und Klatsch",
+    "answerC": "Das Sammeln und Verteilen von Spendengeldern",
+    "answerD": "Die Übertragung von Informationen über elektronische Medien",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Definieren Sie den Begriff 'Schleichwerbung'.",
+    "answerA": "Das Werben für Spielzeugfiguren",
+    "answerB": "Das heimliche oder verschleierte Bewerben von Produkten oder Dienstleistungen",
+    "answerC": "Das Schleichen von Verkäufern in Einkaufszentren",
+    "answerD": "Schleichwerbung bezeichnet das geheime Versenden von Werbe-E-Mails.",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Welcher Auffangtatbestand gilt im UWG (allg. Gesetzesvorschriften)?",
+    "answerA": "5 Abs. 3 UWG",
+    "answerB": "3 Abs. 2 UWG",
+    "answerC": "2 Abs. 4 UWG",
+    "answerD": "6 Abs. 2 UWG",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Welche Liste führt die Bundeszentrale für Kinder- und Jugendmedienschutz?",
+    "answerA": "Liste der besten Filme des Jahres",
+    "answerB": "Liste der gefährlichen Haushaltsgeräte",
+    "answerC": "Liste der gefälschten Dokumente",
+    "answerD": "Liste der jugendgefährdenden Medien / Index",
+    "correctAnswer": "D"
+  },
+  {
+    "question": "Welches Werk ist nicht urheberrechtlich geschützt?",
+    "answerA": "'Blank Space' von Taylor Swift",
+    "answerB": "Ein 71 Jahre altes Buch",
+    "answerC": "Ein Familienfoto aus dem Jahr 1999",
+    "answerD": "1 Minute eines 3-stündigen Films",
+    "correctAnswer": "B"
+  },
+  {
+    "question": "Was versteht man unter der 'kleinen Münze'?",
+    "answerA": "Kleingeld und Cent-Münzen",
+    "answerB": "Kryptowährungen wie Bitcoin und Ethereum",
+    "answerC": "Persönliche geistige Schöpfungen mit niedrigem Wert",
+    "answerD": "Eine Redewendung, die keine spezifische Bedeutung hat",
+    "correctAnswer": "C"
+  },
+  {
+    "question": "Wo sind Erziehung und Jugendschutz geregelt?",
+    "answerA": "Im Strafgesetzbuch (StGB)",
+    "answerB": "In der Europäischen Menschenrechtskonvention (EMRK)",
+    "answerC": "In der Verfassung der Vereinigten Staaten von Amerika",
+    "answerD": "Im Grundgesetz (GG) sowie in verschiedenen Gesetzen",
+    "correctAnswer": "D"
+  }
+]
